@@ -1,0 +1,19 @@
+nospace2-title = کارت حافظه فضای کاقی ندارد.
+nospace2-text  = افزایش حافظه با حذف رسانه
+
+error-saving-title = تصویر ذخیره نشد
+error-saving-text  = خطا مانع دخیره تصویر شده است
+
+error-recording-title = فیلم  ذخیره نشد
+error-recording-text  = خطا مانع ضبط شدن فیلم  شده است
+
+nocard-title = کارت حافظه یافت نمی شود
+nocard-text  = برای عکس گرفتن لطفا کارت حافظه را وارد کنید.
+
+pluggedin-title = دوربین در حالت اتصال غیرفعال است
+pluggedin-text  = برای مشاهده تصاویر موبایل را ازشارژ جدا کنید
+
+size-limit-reached =  برنامه خارج از فضای کارت حافظه اجرا شد
+
+delete-photo? = حذف عکس؟
+delete-video? = حذف فیلم؟
