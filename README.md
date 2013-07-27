@@ -1,4 +1,4 @@
-Gaial10-persian
+Gaial10n-persian
 ===============
 
 Persian Gaia Team. Translate Files
