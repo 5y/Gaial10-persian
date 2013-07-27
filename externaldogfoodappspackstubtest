@@ -1,0 +1,14 @@
+updateRequired=این برنامه جهت استفاده باید به روز شود.
+updateCheck=بررسی برای بروز رسانی.
+# LOCALIZATION_NOTE(updateSize): amount is a fixed precision float, unit is localized value of KB etc
+updateSize= {{amount}} {{unit}} از بروز رسانی ها فعال است. اعمال کردن شاید موجب عوارضی برای اطلاعات شود.
+updateButton=به روز رسانی
+recheck=بررسی مجدد
+failedFetch=بررسی بروز رسانی در حال حاضر امکان پذیر نیست.
+noUpdate=هیج گونه بروز رسانی فعال نیست.
+noInternet=اتصال به اینترنت مورد نیاز است.
+closeWindow=برای پایان بروزرسانی برنامه بسته شد.لطفا برنامه را دوباره راه اندازی کنید.
+B=B
+KB=کیلوبایت
+MB=مگابایت
+GB=گیگابایت
