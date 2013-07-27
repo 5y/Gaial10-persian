@@ -1,0 +1,43 @@
+# LOCALIZATION NOTE
+# For each permission there are three strings:
+#
+#   * the permission name, displayed in the Settings app
+#   *-appRequest = displayed in a dialog box when an app requires a permission
+#   *-webRequest = displayed in a dialog box when a web site requires a permission
+#
+# The two latter strings are identical in English but might require a more
+# specific phrasing in your locale. Note that permission dialogs will display
+# two buttons: “Allow” and “Deny”.
+#
+
+perm-contacts=مخاطبین
+perm-contacts-appRequest={{app}}مایل است به لیست مخاطبین شما دسترسی داشته باشد.
+perm-contacts-webRequest={{site}} مایل است به لیست مخاطبین شما دسترسی داشته باشد.
+
+perm-desktop-notification=اطلاعیه ها
+perm-desktop-notification-appRequest={{app}} مایل است اطلاعیه های خود را نمایش دهد.
+perm-desktop-notification-webRequest={{site}} مایل است اطلاعیه های خود را نمایش دهد.
+
+perm-device-storage-music=ذخیره سازی موسیقی
+perm-device-storage-music-appRequest={{app}} مایل است به موسیقی های شما دسترسی داشته باشد.
+perm-device-storage-music-webRequest={{site}} مایل است به موسیقی های شما دسترسی داشته باشد.
+
+perm-device-storage-pictures=ذخیره سازی تصاویر
+perm-device-storage-pictures-appRequest={{app}} مایل است به تصاویر شما دسترسی داشته باشد.
+perm-device-storage-pictures-webRequest={{site}} مایل است به تصاویر شما دسترسی داشته باشد.
+
+perm-device-storage-sdcard=ذخیره سازی کارت حافظه
+perm-device-storage-sdcard-appRequest={{app}} مایل است به کارت حافظه شما دسترسی داشته باشد.
+perm-device-storage-sdcard-webRequest={{site}} مایل است به کارت حافظه شما دسترسی داشته باشد.
+
+perm-device-storage-videos=ذخیره سازی فیلم ها 
+perm-device-storage-videos-appRequest={{app}} مایل است به فیلم های شما دسترسی داشته باشد.
+perm-device-storage-videos-webRequest={{site}} مایل است به فیلم های شما دسترسی داشته باشد.
+
+perm-fmradio=رادیو FM
+perm-fmradio-appRequest={{app}} مایل است از رادیو شما استفاده کند.
+perm-fmradio-webRequest={{site}} مایل است از رادیو شما استفاده کند.
+
+perm-geolocation=منطقه جغرافیایی
+perm-geolocation-appRequest={{app}} مایل است از مکان شما اطلاع پیدا کند.
+perm-geolocation-webRequest={{site}} مایل است از مکان شما اطلاع پیدا کند.
